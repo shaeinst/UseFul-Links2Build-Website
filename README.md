@@ -11,8 +11,8 @@ https://palette.ninja/ <br>
 https://grid.layoutit.com/ <br>
 https://keyframes.app/ <br>
 https://www.gradientmagic.com <br>
-
 <br>
+
 # for Graphic
 https://www.vector4free.com/ <br>
 https://www.vecteezy.com/ <br>
@@ -50,6 +50,10 @@ https://pixllabs.io/blog/web-development/css-cheat-sheet/ <br>
 https://www.smashingmagazine.com/2021/03/css-generators/ <br>
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/ <br>
 https://css-tricks.com/snippets/css/complete-guide-grid/ <br>
+
+
+# tips and tricks
+https://twitter.com/denicmarko/status/1377939325447507968 <br>
 
 
 
